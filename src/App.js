@@ -206,7 +206,7 @@ function App() {
 						<div className="routes">
 					{/* Here are the navbar routes established, each with its required state */}
 					<Routes>
-						<Route path="/" element ={<Home products={products}
+						<Route exact path="/" element ={<Home products={products}
 														handleOrderedItemsProd1={handleOrderedItemsProd1}
 														handleOrderedItemsProd2={handleOrderedItemsProd2}
 														handleOrderedItemsProd3={handleOrderedItemsProd3} />} />
