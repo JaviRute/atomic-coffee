@@ -1,0 +1,7 @@
+-add amount of past orders en 'profile'
+ lo suyo sería q le pusieras la fecha tb, lo cual no debería ser demasiado dificil
+ si te fijas en el footer hay un date().year o algo asi q le pone el año, sería una cosa parecida
+ pero eso, la idea es q cuando le das a profile te ponga tu información y una seccion de 'past orders'
+ donde pone la fecha y el pedido q hiciste en ese momento, con el precio, si usaste finance, etc
+
+

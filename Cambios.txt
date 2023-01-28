@@ -1,0 +1,6 @@
+-CSS mejorado para q sea mas responsivo
+
+-useEffect utilizado en la seccion de OurPolicy
+
+-arreglé un pequeño bug en la seccion Pay with finance, 
+ el número de meses no volvía a su estado original y causaba un comportamiento extraño
