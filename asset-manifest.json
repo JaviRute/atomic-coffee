@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atomic-coffee/static/css/main.a586844e.css",
+    "main.js": "/atomic-coffee/static/js/main.1e3ee1f9.js",
+    "static/js/787.d80bb1bb.chunk.js": "/atomic-coffee/static/js/787.d80bb1bb.chunk.js",
+    "static/media/banner.jpg": "/atomic-coffee/static/media/banner.e1502dd9665772c19840.jpg",
+    "static/media/prod1.png": "/atomic-coffee/static/media/prod1.4cb516fd49c58626c20c.png",
+    "static/media/prod2.png": "/atomic-coffee/static/media/prod2.2cecd700b518d7eb7d43.png",
+    "static/media/prod3.png": "/atomic-coffee/static/media/prod3.685838c43f432a9dd354.png",
+    "static/media/logo5.png": "/atomic-coffee/static/media/logo5.2e349539c3c05074d84b.png",
+    "static/media/linkedin.png": "/atomic-coffee/static/media/linkedin.9285914ece0cfa7310ee.png",
+    "static/media/github.png": "/atomic-coffee/static/media/github.5eca2e3721cd69baa278.png",
+    "index.html": "/atomic-coffee/index.html",
+    "main.a586844e.css.map": "/atomic-coffee/static/css/main.a586844e.css.map",
+    "main.1e3ee1f9.js.map": "/atomic-coffee/static/js/main.1e3ee1f9.js.map",
+    "787.d80bb1bb.chunk.js.map": "/atomic-coffee/static/js/787.d80bb1bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a586844e.css",
+    "static/js/main.1e3ee1f9.js"
+  ]
+}
