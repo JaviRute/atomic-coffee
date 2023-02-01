@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Route, Link, Routes, BrowserRouter } from "react-router-dom"
+import { Route, Link, Routes, HashRouter } from "react-router-dom"
 //Import page components
 import Home from './sections/Home.js'
 import Header from './sections/Header.js'
@@ -179,7 +179,7 @@ function App() {
 			<>
 				{/* This will create a navbar */}
 				<div className='nav-container'>
-					<BrowserRouter>
+					<HashRouter>
 					<div className='navbar-div'>
 						<div className="welcome">
 							<button className="logout" onClick={logOut}>Log Out</button>
@@ -243,7 +243,7 @@ function App() {
 						</Routes>
 					</div>
 					</Scroll>
-					</BrowserRouter>
+					</HashRouter>
 				</div>
 			<Footer />
 			</>
