@@ -17,7 +17,7 @@ function OurPolicy() {
             <Header />
             {/* All the content of the page is done with a map, displaying lorem ipsum messages */}
             <div className="policy">
-                <h2>Our Policy</h2>
+                <h2>Our Policies</h2>
                 {[1,2,3,4,5,6,7,8,9,10].map(p => (
                     <div key={p}>
                         <p>{p}. {content}</p>
