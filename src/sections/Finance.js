@@ -33,7 +33,7 @@ function Finance(props) {
                     <option value={9}>9</option>
                     <option value={10}>10</option>
                     <option value={11}>11</option>
-                    <option value={12}>12</option>3
+                    <option value={12}>12</option>
                 </select>
             </form>
             <h3>Amount to pay per month: £{(((((products[0].price * orderedItemsProd1) + (products[1].price * orderedItemsProd2) + (products[2].price * orderedItemsProd3)) * 1.2)*1.2)/monthsToPay).toFixed(2)}</h3>
